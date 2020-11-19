@@ -16,7 +16,7 @@ if __name__ == '__main__':
 
 	try:
 	
-		input_dir  = sys.argv[1]
+		input_dir  = 'output/output'
 		output_dir = input_dir
 
 		ocr_threshold = .4
